@@ -22,6 +22,7 @@ The following **optional** features are implemented:
 The following **additional** features are implemented:
 
 * [X] Adding "Launch Screen" 
+* [X] Splitting bill amount
 
 ## Video Walkthrough 
 
